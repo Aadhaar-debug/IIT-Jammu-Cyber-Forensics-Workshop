@@ -1,5 +1,5 @@
-# IIT-Jammu-Cyber-Forensics-Workshop
- Dated : 10th Feburary , 2023
+# IIT-Jammu-Cyber-Forensics-Workshop Dated : 10th Feburary , 2023
+# Blog Post
 #"A Day to Remember: A Cybersecurity Workshop at IIT Jammu"
 
 Recently, I had the opportunity to attend a cybersecurity workshop at IIT Jammu with my college batchmates. The workshop was organized by MIET Jammu and it was an amazing experience to learn about cyber forensics, incident response, and some of the best tools used by cybersecurity professionals. The workshop was an eye-opener for all of us and we learned a lot about the current cybersecurity landscape and how to protect ourselves and our organizations from cyber threats.
