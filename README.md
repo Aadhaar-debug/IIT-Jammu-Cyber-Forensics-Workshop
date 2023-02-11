@@ -1,6 +1,7 @@
 # IIT-Jammu-Cyber-Forensics-Workshop
-##"A Day to Remember: A Cybersecurity Workshop at IIT Jammu"
-# Dated : 10th Feburary , 2023
+## Dated : 10th Feburary , 2023
+#"A Day to Remember: A Cybersecurity Workshop at IIT Jammu"
+
 Recently, I had the opportunity to attend a cybersecurity workshop at IIT Jammu with my college batchmates. The workshop was organized by MIET Jammu and it was an amazing experience to learn about cyber forensics, incident response, and some of the best tools used by cybersecurity professionals. The workshop was an eye-opener for all of us and we learned a lot about the current cybersecurity landscape and how to protect ourselves and our organizations from cyber threats.
 
 One of the highlights of the workshop was the opportunity to connect with renowned cybersecurity professionals who were referred by the CBI, Mr. Nitin Chauhan and Mr. Sateesh Kumar Sasidharan. These professionals shared their real-world experiences and knowledge with us, which was invaluable. They provided us with practical insights into the field of cybersecurity and gave us a better understanding of the importance of staying vigilant and proactive in protecting our digital assets.
